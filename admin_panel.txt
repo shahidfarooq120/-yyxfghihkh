@@ -1,0 +1,4 @@
+I want to have an admin panel for users of my site to build their profile page view attached file.
+It is only one page, you need to create few blocks to manage  from php/mysql/jquery or any js
+I can pay 2 gigs for this job, please do not say I can do it, but build it and show me on their servers
+https://www.matrimonio.com/ville-matrimoni/villa-belvedere-1849-al-santuario-di-caravaggio--e6706/fotos/26
